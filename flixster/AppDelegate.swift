@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  flixster
+//  Flix
 //
 //  Created by Shriprama Rao on 1/28/19.
-//  Copyright © 2019 shriprama. All rights reserved.
+//  Copyright © 2019 Shriprama Rao. All rights reserved.
 //
 
 import UIKit
